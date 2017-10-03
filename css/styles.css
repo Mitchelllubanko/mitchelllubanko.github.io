@@ -1,0 +1,193 @@
+textarea {
+    resize: none;
+}
+.navbar .navbar-nav {
+    float: none;
+    vertical-align: top;
+    font-family: Montserrat;
+    font-weight: 600;
+}
+.navbar .navbar-collapse {
+    text-align: center;
+}
+.navbar {
+    width: 100%;
+    z-index: 150;
+    position: fixed;
+    background-color: #3a3738;
+    border: none;
+    border-radius: 0;
+}
+.nav-button:hover {
+    color: #ff303d !important;
+}
+.home {
+    width: 100vw;
+    height: 100vh;
+    font-family: Montserrat;
+    background: -webkit-linear-gradient(left top, #ff9966, #ff5e62);
+    background: -o-linear-gradient(bottom right, #ff9966, #ff5e62);
+    background: -moz-linear-gradient(bottom right, #ff9966, #ff5e62);
+    background: linear-gradient(to bottom right, #ff9966, #ff5e62);
+    max-width: 100%;
+    max-height: 100%;
+}
+.heading {
+    margin-top: 25vh;
+    font-size: 4vw;
+    font-size: 3.25em;
+    font-weight: 900;
+    color: #ffffff;
+}
+.sub-heading {
+    margin-top: -10px;
+    font-size: 4vw;
+    font-size: 3.25em;
+    font-weight: 900;
+    color: #ffffff;
+}
+.btn-primary {
+    font-family: Montserrat;
+    font-size: 1.5em;
+    font-weight: 700;
+    background-color: transparent;
+    border-radius: 25px;
+    border-color: #ff303d;
+    border-width: thick;
+    margin-top: 10px;
+}
+.btn-primary:hover {
+    border-color: #3a3738;
+    background-color: transparent;
+}
+.btn:focus, .btn:active {
+    background-color: transparent !important;
+    outline: none !important;
+    border-color: #3a3738;
+}
+.learn-more {
+    font-size: 1.5em;
+    margin-top: 175px;
+}
+.glyphicon-chevron-down {
+    font-size: 1.5em;
+    color: #3a3738;
+}
+.about {
+    height: 75vh;
+    font-family: Montserrat;
+    overflow: auto;
+}
+.expertise {
+    font-size: 4vw;
+    font-size: 3.25em;
+    font-weight: 600;
+    margin-top: 75px;
+}
+.expertise-desc {
+    font-size: 3vw;
+    font-size: 1.5em;
+    font-weight: 300;
+    color: #969696;
+    margin-bottom: 50px;
+}
+.about-icon {
+    color: #ff303d;
+}
+.design, .ideas, .development{
+    font-size: 3.5vw;
+    font-size: 2.5em;
+    font-weight: 600;
+    color: #3a3738;
+}
+.desc {
+    color: #969696;
+    margin-bottom: 75px;
+}
+.about-me {
+    font-size: 4vw;
+    font-size: 3.25em;
+    font-weight: 600;
+    margin-top: 75px;
+}
+.about-me-desc {
+    font-size: 3vw;
+    font-size: 1.5em;
+    font-weight: 300;
+    color: #969696;
+    margin-bottom: 50px;
+}
+.about-me-text {
+    font-size: 3vw;
+    font-size: 1.5em;
+    font-weight: 200;
+    color: #969696;
+    margin-bottom: 75px;
+}
+.my-expertise {
+    background-color: #d8d8d8;
+}
+.projects {
+    height: 35vh;
+    overflow: auto;
+}
+.my-work {
+    font-size: 4vw;
+    font-size: 3.25em;
+    font-weight: 600;
+    margin-top: 75px;
+}
+.my-work-desc {
+    font-size: 3vw;
+    font-size: 1.5em;
+    font-weight: 300;
+    color: #969696;
+}
+.project-one-desc {
+    font-family: Montserrat;
+    text-align: left;
+}
+.project-two-desc {
+    font-family: Montserrat;
+    text-align: right;
+}
+.project-two {
+    margin-bottom: 75px;
+}
+.project-item {
+    width: 400px;
+}
+.contact {
+    height: 95vh;
+    background-color: #FD966B;
+}
+.contact-me {
+    font-size: 4vw;
+    font-size: 3.25em;
+    font-weight: 600;
+    margin-top: 75px;
+    color: #ffffff;
+}
+.contact-me-desc {
+    font-size: 3vw;
+    font-size: 1.5em;
+    font-weight: 300;
+    color: #ffffff;
+    margin-bottom: 60px;
+}
+.input-one {
+    width: 30vw;
+    margin-bottom: 10px;
+    font-family: Montserrat;
+    display: inline-block;
+}
+.input-two {
+    width: 90.75vw;
+    font-family: Montserrat;
+    display: inline-block;
+    margin-bottom: 25px;
+}
+.footer-text {
+    font-family: Montserrat;
+    margin-top: 7px;
+}
