@@ -5,7 +5,6 @@ textarea {
     float: none;
     vertical-align: top;
     font-family: Montserrat;
-    font-weight: 600;
 }
 .navbar .navbar-collapse {
     text-align: center;
@@ -34,15 +33,14 @@ textarea {
 }
 .heading {
     margin-top: 25vh;
-    font-size: 4vw;
-    font-size: 3.25em;
+    max-width: 100%;
+    font-size: 5vw;
     font-weight: 900;
     color: #ffffff;
 }
 .sub-heading {
     margin-top: -10px;
-    font-size: 4vw;
-    font-size: 3.25em;
+    font-size: 5vw;
     font-weight: 900;
     color: #ffffff;
 }
@@ -67,16 +65,18 @@ textarea {
 }
 .learn-more {
     font-size: 1.5em;
-    margin-top: 175px;
+    position: relative;
+    top: 180px;
 }
 .glyphicon-chevron-down {
     font-size: 1.5em;
     color: #3a3738;
+    position: relative;
+    top: 185px;
 }
 .about {
-    height: 75vh;
     font-family: Montserrat;
-    overflow: auto;
+    margin-bottom: 20px;
 }
 .expertise {
     font-size: 4vw;
