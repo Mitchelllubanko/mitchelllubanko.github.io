@@ -150,8 +150,13 @@ textarea {
 .project-two {
     margin-bottom: 75px;
 }
-.project-item {
+.project-item-one {
     width: 400px;
+    float: right;
+}
+.project-item-two {
+    width: 400px;
+    float: left;
 }
 .contact {
     background-color: #FD966B;
