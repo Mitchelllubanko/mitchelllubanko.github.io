@@ -84,6 +84,16 @@ textarea {
     font-weight: 600;
     margin-top: 75px;
 }
+.exp-one {
+    padding-left: 7.5vw;
+}
+.exp-two {
+    padding-right: 3.5vw;
+    padding-left: 3.5vw;
+}
+.exp-three {
+    padding-right: 7.5vw;
+}
 .expertise-desc {
     font-size: 3vw;
     font-size: 1.5em;
@@ -123,6 +133,8 @@ textarea {
     font-weight: 200;
     color: #969696;
     margin-bottom: 75px;
+    margin-left: 7.5vw;
+    margin-right: 7.5vw;
 }
 .my-expertise {
     background-color: #d8d8d8;
@@ -142,10 +154,12 @@ textarea {
 .project-one-desc {
     font-family: Montserrat;
     text-align: left;
+    padding-right: 7.5vw;
 }
 .project-two-desc {
     font-family: Montserrat;
     text-align: right;
+    padding-left: 7.5vw;
 }
 .project-two {
     margin-bottom: 75px;
